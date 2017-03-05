@@ -1,5 +1,13 @@
 Welcome to Locale Sample Titanium Mobile Project
-<img src="Preview.png" alt="Locale Sample App preview"/>
+
+
+Screenshot
+-------------
+
+![Locale demo](http://shareourideas.com/wp-content/uploads/2017/03/Locale-Sample.png "Locale demo screenshot")
+
+About demo project
+----------------
 This is a demo project. To run this application please update tiapp.xml guid and appc app id.
 And Then download free trial Locale module from Appcelerator market place [See below links].  Once it work well for you app then buy full version.
 
@@ -17,9 +25,10 @@ You can get locale modules from Appcelerator market https://marketplace.appceler
 Or use direct links
 https://marketplace.appcelerator.com/apps/144434?restoreSearch=true
 https://marketplace.appcelerator.com/apps/144430?restoreSearch=true
-<img src="Share-Our-Ideas-Logo.png" alt="Share Our Ideas"/>
+![Share Our Ideas](http://shareourideas.com/wp-content/uploads/2015/10/Share-Our-Ideas-Logo.png "Share Our Ideas logo")
+
+
 ----------------------------------
 Stuff our legal folk make us say:
-
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 
