@@ -1,0 +1,8 @@
+<resources>
+    <string name="Welcome_Msg">Bienvenido a la aplicación Locale</string>
+    <string name="About_app">Esta es sólo una aplicación de demostración acerca de la configuración regional. Este texto viene de i18n/es/strings.xml. \n \n Pulse sobre el botón Configuración para cambiar el idioma.</string>
+    <string name="Settings">Ajustes</string>
+    <string name="Back">Espalda</string>
+    <string name="Select_Language">Seleccione el idioma</string>
+    <string name="Loading">Cargando...</string>
+</resources>

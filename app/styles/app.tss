@@ -1,0 +1,22 @@
+"Window": {
+	backgroundColor:"#0491ce"
+}
+"Button":{
+	tintColor:"#FFF",
+	borderColor:"#FFF",
+	borderWidth:1,
+	borderRadius:3,
+	width:"40%"
+}
+
+"Label":{
+	color:"#FFF"
+}
+
+
+"Button[platform=android]":{
+	borderWidth:1,
+	borderRadius:3,
+	width:"40%",
+	color:"#0491ce"
+}

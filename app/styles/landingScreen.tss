@@ -1,0 +1,20 @@
+
+"#lb_header":{
+	top:40,
+	font: {
+		fontSize: 20,
+		fontWeight:"bold",
+		fontStyle:"italic"
+	}
+}
+
+"#lb_about_app":{
+	right:5,
+	left:5,
+	textAlign:"center"
+}
+
+"#btn_settings":{
+	bottom:20,
+	title:L("Settings")
+}

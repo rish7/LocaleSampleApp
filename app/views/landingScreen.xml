@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="win_landingscreen" class="container" onOpen="window_open">
+		<Label id="lb_header" textid="Welcome_Msg"></Label>
+		<Label id="lb_about_app"></Label>
+		<Button id="btn_settings" onClick="settings_tapped"></Button>
+	</Window>
+</Alloy>

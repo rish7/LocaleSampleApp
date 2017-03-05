@@ -1,0 +1,10 @@
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color:"#FFF",
+	font: {
+		fontSize: 24,
+		fontWeight:"bold"
+	}
+}

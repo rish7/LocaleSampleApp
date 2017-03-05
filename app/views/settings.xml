@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" id="win_settings" onOpen="window_open">
+		<Button titleid="Back" onClick="Back_tapped" id="btn_back"></Button>
+		<Label id="lb_header" textid="Settings"></Label>
+	</Window>
+</Alloy>

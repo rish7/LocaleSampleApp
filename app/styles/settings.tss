@@ -1,0 +1,16 @@
+
+".container" : {
+  layout:"vertical"
+}
+"#btn_back":{
+	top:60
+}
+"#lb_header":{
+	top:20,
+	height:50,
+	font: {
+		fontSize: 20,
+		fontWeight:"bold",
+		fontStyle:"italic"
+	}
+}
