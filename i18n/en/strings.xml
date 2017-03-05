@@ -1,8 +1,0 @@
-<resources>
-    <string name="Welcome_Msg">Welcome to Locale App</string>
-    <string name="About_app">This is just demo app about locale. This text is coming from i18n/en/strings.xml. \n \n Tap on below Settings button to change language.</string>
-    <string name="Settings">Settings</string>
-    <string name="Back">Back</string>
-    <string name="Select_Language">Select Language</string>
-    <string name="Loading">Loading...</string>
-</resources>
