@@ -13,8 +13,8 @@ This is a demo project. To run this application please update tiapp.xml guid and
 And Then download free trial Locale module from Appcelerator market place [See below links].  Once it work well for you app then buy full version.
 
 
-Any doubt or suggestions please contact us in Share Our Ideas 
-http://shareourideas.com/2013/12/02/titanium-locale-module-for-both-android-and-ios/  comment section
+Any doubt, suggestions or more in detail please contact us in Share Our Ideas 
+http://shareourideas.com/2017/03/06/titanium-locale-module-for-both-android-and-ios-with-sample-code/  comment section
 
 Or Just drop email to nagaharish.movva[at]gmail[dot]com
 
