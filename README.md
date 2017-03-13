@@ -17,19 +17,22 @@ Any doubt or suggestions please contact us in Share Our Ideas
 http://shareourideas.com/2013/12/02/titanium-locale-module-for-both-android-and-ios/  comment section
 
 Or Just drop email to nagaharish.movva[at]gmail[dot]com
-https://www.facebook.com/shareourideas/ 
+
+https://www.facebook.com/shareourideas/
+
 https://twitter.com/nagaharishmovva
 
 
 You can get locale modules from Appcelerator market https://marketplace.appcelerator.com/home and search for locale.
 
 Or use direct links
+
 https://marketplace.appcelerator.com/apps/144434?restoreSearch=true
+
 https://marketplace.appcelerator.com/apps/144430?restoreSearch=true
+
 ![Share Our Ideas](http://shareourideas.com/wp-content/uploads/2015/10/Share-Our-Ideas-Logo.png)
 
 
 ----------------------------------
-Stuff our legal folk make us say:
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
+Appcelerator, Appcelerator Titanium and associated marks and logos are trademarks of Appcelerator, Inc. 
