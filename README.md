@@ -1,13 +1,13 @@
-#Locale Titnaium module
+# Locale Titnaium module
 Welcome to Locale Sample Titanium Mobile Project, in this sample code will see how we can change language inside app with out restart
 
 
-###Screenshot
+### Screenshot
 -------------
 
 ![Locale demo](http://shareourideas.com/wp-content/uploads/2017/03/Locale-Sample.png)
 
-###About demo project
+### About demo project
 ----------------
 This is a demo project. To run this application please update tiapp.xml guid and appc app id.
 And Then download free trial Locale module from Appcelerator market place [See below links].  Once it work well for you app then buy full version.
